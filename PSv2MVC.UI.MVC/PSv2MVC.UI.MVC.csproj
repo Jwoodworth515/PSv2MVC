@@ -769,6 +769,24 @@
     <Content Include="_Archive\assets\vendor\boxicons\fonts\boxicons.woff" />
     <Content Include="_Archive\assets\vendor\boxicons\fonts\boxicons.woff2" />
     <Content Include="Views\Shared\OriginalLayout.cshtml" />
+    <Content Include="Views\Home\Resume.cshtml" />
+    <Content Include="Views\Home\Links.cshtml" />
+    <Content Include="Views\Home\Projects.cshtml" />
+    <Content Include="Views\Home\Music.cshtml" />
+    <Content Include="Views\Home\DefiancePointe.cshtml" />
+    <Content Include="Views\Home\VictoryForVillains.cshtml" />
+    <Content Include="Views\Home\FromSkiesOfFire.cshtml" />
+    <Content Include="Views\Home\GiveThemMyName.cshtml" />
+    <Content Include="Views\Home\ProjectDetails.cshtml" />
+    <Content Include="Views\Home\ProjectDetails2.cshtml" />
+    <Content Include="Views\Home\ProjectDetails3.cshtml" />
+    <Content Include="Views\Home\ProjectDetails4.cshtml" />
+    <Content Include="Views\Home\ProjectDetails5.cshtml" />
+    <Content Include="Views\Home\ProjectDetails6.cshtml" />
+    <Content Include="Views\Home\ProjectDetails7.cshtml" />
+    <Content Include="Views\Home\ProjectDetails8.cshtml" />
+    <Content Include="Views\Home\ProjectDetails9.cshtml" />
+    <Content Include="Views\Home\ProjectDetails10.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
