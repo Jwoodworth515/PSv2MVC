@@ -184,7 +184,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\css\style.css" />
-    <Content Include="Content\img\about.jpg" />
     <Content Include="Content\img\apple-touch-icon.png" />
     <Content Include="Content\img\devIcons\001-asp-file-format-symbol.png" />
     <Content Include="Content\img\devIcons\002-jquery-sketch-symbol.png" />
@@ -198,7 +197,6 @@
     <Content Include="Content\img\devIcons\010-iteration.png" />
     <Content Include="Content\img\favicon.ico" />
     <Content Include="Content\img\favicon.png" />
-    <Content Include="Content\img\GuitarShopTemp.jpg" />
     <Content Include="Content\img\hero-bg.jpg" />
     <Content Include="Content\img\Jake %281%29.jpg" />
     <Content Include="Content\img\Jake.jpg" />
@@ -350,9 +348,8 @@
     <Content Include="Content\img\portfolio\PersonalSite7.JPG" />
     <Content Include="Content\img\portfolio\StoreFront.JPG" />
     <Content Include="Content\img\testimonials\DHaim.jfif" />
-    <Content Include="Content\img\testimonials\JShatzkamer.jfif" />
+    <Content Include="Content\img\testimonials\DSmalley.jfif" />
     <Content Include="Content\img\testimonials\JTaylor.jfif" />
-    <Content Include="Content\img\testimonials\KKrummenacher.jfif" />
     <Content Include="Content\img\testimonials\MGriffin.jfif" />
     <Content Include="Content\vendor\aos\aos.css" />
     <Content Include="Content\vendor\aos\aos.js" />
