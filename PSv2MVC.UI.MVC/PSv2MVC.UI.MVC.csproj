@@ -623,7 +623,9 @@
     <Content Include="_Archive\OriginalContent\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="configs\connections.config" />
+    <Content Include="configs\connections.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="_Archive\about.html" />
     <Content Include="_Archive\contact.html" />
     <Content Include="_Archive\defiance-pointe.html" />
