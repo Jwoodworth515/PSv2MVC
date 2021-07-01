@@ -1,0 +1,12 @@
+﻿@model PSv2MVC.UI.MVC.Models.ContactViewModel
+
+@{
+    ViewBag.Title = "EmailConfirmation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h4>We received the following message: </h4>
+<p>@Model.Message</p>
+<h4>We will respond as soon as we can to @Model.Email. Thank you for contacting us!</h4>

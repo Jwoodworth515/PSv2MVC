@@ -177,6 +177,7 @@
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\AdminViewModel.cs" />
+    <Compile Include="Models\ContactViewModel.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -678,6 +679,7 @@
     <Content Include="Content\vendor\boxicons\fonts\boxicons.ttf" />
     <Content Include="Content\vendor\boxicons\fonts\boxicons.woff" />
     <Content Include="Content\vendor\boxicons\fonts\boxicons.woff2" />
+    <Content Include="configs\AppSecretKeys.config" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
@@ -786,6 +788,8 @@
     <Content Include="Views\Home\ProjectDetails8.cshtml" />
     <Content Include="Views\Home\ProjectDetails9.cshtml" />
     <Content Include="Views\Home\ProjectDetails10.cshtml" />
+    <Content Include="Views\Home\Contact2.cshtml" />
+    <Content Include="Views\Home\EmailConfirmation.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
