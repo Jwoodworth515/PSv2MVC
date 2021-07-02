@@ -788,7 +788,6 @@
     <Content Include="Views\Home\ProjectDetails8.cshtml" />
     <Content Include="Views\Home\ProjectDetails9.cshtml" />
     <Content Include="Views\Home\ProjectDetails10.cshtml" />
-    <Content Include="Views\Home\Contact2.cshtml" />
     <Content Include="Views\Home\EmailConfirmation.cshtml" />
   </ItemGroup>
   <ItemGroup>
