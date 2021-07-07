@@ -348,6 +348,9 @@
     <Content Include="Content\img\portfolio\PersonalSite6.JPG" />
     <Content Include="Content\img\portfolio\PersonalSite7.JPG" />
     <Content Include="Content\img\portfolio\StoreFront.JPG" />
+    <Content Include="Content\img\portfolio\StoreFront2.JPG" />
+    <Content Include="Content\img\portfolio\StoreFront3.JPG" />
+    <Content Include="Content\img\portfolio\StoreFront4.JPG" />
     <Content Include="Content\img\testimonials\DHaim.jfif" />
     <Content Include="Content\img\testimonials\DSmalley.jfif" />
     <Content Include="Content\img\testimonials\JTaylor.jfif" />
