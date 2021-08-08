@@ -509,10 +509,6 @@ li {
         content: "";
         background: rgba(255, 255, 255, 0.8);
         position: absolute;
-        bottom: 0;
-        top: 0;
-        left: 0;
-        right: 0;
     }
 
     #hero h1 {
