@@ -198,7 +198,6 @@
     <Content Include="Content\img\devIcons\010-iteration.png" />
     <Content Include="Content\img\favicon.ico" />
     <Content Include="Content\img\favicon.png" />
-    <Content Include="Content\img\Jacob Woodworth Reume IT.pdf" />
     <Content Include="Content\img\Jake %281%29.jpg" />
     <Content Include="Content\img\Jake.jpg" />
     <Content Include="Content\img\Jake1 %281%29.jpg" />
@@ -701,6 +700,7 @@
     <Content Include="Content\vendor\boxicons\fonts\boxicons.woff" />
     <Content Include="Content\vendor\boxicons\fonts\boxicons.woff2" />
     <Content Include="configs\AppSecretKeys.config" />
+    <Content Include="Content\img\Jacob Woodworth Resume IT.pdf" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
