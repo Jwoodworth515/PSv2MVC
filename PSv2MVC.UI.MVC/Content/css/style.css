@@ -1327,3 +1327,6 @@ section {
     background-image: url('../img/Jake2 (1).jpg');
 }
 
+nav a.active {
+    color: #a79174;
+}

@@ -51,7 +51,7 @@
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-            <nav id="navbar" class="navbar order-last order-lg-0">
+            <nav id="navbar" class="active navbar order-last order-lg-0">
                 <ul>
                     <li><a href="@Url.Action("Index","Home")">Home</a></li>
                     <li><a href="@Url.Action("About","Home")">About</a></li>
@@ -105,6 +105,16 @@
 
     <!-- Template Main JS File -->
     <script src="~/Scripts/js/main.js"></script>
+
+    <script>
+        $('nav a').each(function () {
+
+            if ($(this).attr('href') == window.location.pathname) {
+
+                $(this).addClass('active');
+            }
+        });
+    </script>
 
 </body>
 
