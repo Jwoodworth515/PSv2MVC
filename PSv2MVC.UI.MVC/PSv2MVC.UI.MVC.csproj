@@ -342,6 +342,15 @@
     <Content Include="Content\img\portfolio\FED1 Project7.JPG" />
     <Content Include="Content\img\portfolio\FibEvenSum.JPG" />
     <Content Include="Content\img\portfolio\FSDProject.JPG" />
+    <Content Include="Content\img\portfolio\FSDProject10.JPG" />
+    <Content Include="Content\img\portfolio\FSDProject2.JPG" />
+    <Content Include="Content\img\portfolio\FSDProject3.JPG" />
+    <Content Include="Content\img\portfolio\FSDProject4.JPG" />
+    <Content Include="Content\img\portfolio\FSDProject5.JPG" />
+    <Content Include="Content\img\portfolio\FSDProject6.JPG" />
+    <Content Include="Content\img\portfolio\FSDProject7.JPG" />
+    <Content Include="Content\img\portfolio\FSDProject8.JPG" />
+    <Content Include="Content\img\portfolio\FSDProject9.JPG" />
     <Content Include="Content\img\portfolio\Multiples3And5.JPG" />
     <Content Include="Content\img\portfolio\PersonalSite.JPG" />
     <Content Include="Content\img\portfolio\PersonalSite2.JPG" />
@@ -418,6 +427,7 @@
     <Content Include="Content\vendor\swiper\swiper-bundle.min.js" />
     <Content Include="Content\vendor\waypoints\noframework.waypoints.js" />
     <Content Include="forms\contact.php" />
+    <None Include="Scripts\jquery-3.3.1-vsdoc.js" />
     <Content Include="Scripts\js\main.js" />
     <Content Include="_Archive\assets\css\style.css" />
     <Content Include="_Archive\assets\img\about.jpg" />

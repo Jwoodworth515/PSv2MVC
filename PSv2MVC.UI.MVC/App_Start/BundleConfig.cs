@@ -22,18 +22,6 @@ namespace StoreFrontV3.UI.MVC
                       "~/Scripts/bootstrap.js",
                       "~/Scripts/respond.js"));
 
-            //bundles.Add(new Bundle("~/bundles/template").Include(
-            //    "~/Scripts/jquery-{version}.js",
-            //    "~/Content/vendor/aos/aos.js",
-            //    "~/Content/vendor/bootstrap/js/bootstrap.bundle.min.js",
-            //    "~/Content/vendor/glightbox/js/glightbox.min.js",
-            //    "~/Content/vendor/isotope-layout/isotope.pkgd.min.js",
-            //    "~/Content/vendor/purecounter/purecounter.js",
-            //    "~/Content/vendor/swiper/swiper-bundle.min.js",
-            //    "~/Content/vendor/waypoints/noframework.waypoints.js",
-            //    "~/Scripts/js/main.js"
-            //    ));
-
             //bundles.Add(new StyleBundle("~/Content/css").Include(
             //    "~/Content/img/favicon.png",
             //    "~/Content/img/apple-touch-icon.png",
@@ -43,8 +31,21 @@ namespace StoreFrontV3.UI.MVC
             //    "~/Content/vendor/boxicons/css/boxicons.min.css",
             //    "~/Content/vendor/glightbox/css/glightbox.min.css",
             //    "~/Content/vendor/swiper/swiper-bundle.min.css",
-            //    "~/Content/css/style.css"
-            //    ));
+            //    "~/Content/css/style.css"));
+
+            //bundles.Add(new ScriptBundle("~/bundles/template").Include(
+            //    "~/Content/vendor/aos/aos.js",
+            //    "~/Content/vendor/bootstrap/js/bootstrap.bundle.min.js",
+            //    "~/Content/vendor/glightbox/js/glightbox.min.js",
+            //    "~/Content/vendor/isotope-layout/isotope.pkgd.min.js",
+            //    "~/Content/vendor/purecounter/purecounter.js",
+            //    "~/Content/vendor/swiper/swiper-bundle.min.js",
+            //    "~/Content/vendor/waypoints/noframework.waypoints.js",
+            //    "~/Scripts/js/main.js"));
+
+
+
+
         }
     }
 }
