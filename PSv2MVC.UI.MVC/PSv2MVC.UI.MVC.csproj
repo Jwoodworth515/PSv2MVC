@@ -186,6 +186,8 @@
   <ItemGroup>
     <Content Include="Content\css\style.css" />
     <Content Include="Content\img\apple-touch-icon.png" />
+    <Content Include="Content\img\CareerReady.png" />
+    <Content Include="Content\img\CareerReady1.png" />
     <Content Include="Content\img\devIcons\001-asp-file-format-symbol.png" />
     <Content Include="Content\img\devIcons\002-jquery-sketch-symbol.png" />
     <Content Include="Content\img\devIcons\003-json-file.png" />
@@ -318,6 +320,8 @@
     <Content Include="Content\img\music\victoryForVillainsJakePhotos\32052_399365226465_1040004_n.jpg" />
     <Content Include="Content\img\music\victoryForVillainsJakePhotos\32052_399365231465_1720204_n.jpg" />
     <Content Include="Content\img\music\victoryForVillainsJakePhotos\32052_399365241465_5375847_n.jpg" />
+    <Content Include="Content\img\PerfectAttendance.png" />
+    <Content Include="Content\img\PerfectAttendance1.png" />
     <Content Include="Content\img\pexels-steve-johnson-2130474.jpg" />
     <Content Include="Content\img\portfolio\android-chrome-192x192.png" />
     <Content Include="Content\img\portfolio\android-chrome-512x512.png" />
@@ -385,6 +389,8 @@
     <Content Include="Content\img\portfolio\StoreFront7.JPG" />
     <Content Include="Content\img\portfolio\StoreFront8.JPG" />
     <Content Include="Content\img\portfolio\StoreFront9.JPG" />
+    <Content Include="Content\img\ProgramGraduate.png" />
+    <Content Include="Content\img\ProgramGraduate1.png" />
     <Content Include="Content\img\testimonials\DHaim.jfif" />
     <Content Include="Content\img\testimonials\DSmalley.jfif" />
     <Content Include="Content\img\testimonials\JTaylor.jfif" />

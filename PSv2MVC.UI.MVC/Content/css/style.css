@@ -1330,3 +1330,8 @@ section {
 nav a.active {
     color: #a79174;
 }
+
+.badges {
+    display: flex;
+    justify-content: space-around;
+}
